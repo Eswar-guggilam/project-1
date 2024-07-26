@@ -1,0 +1,148 @@
+{
+    "hrdetail": [
+        {
+            "hr_name": "Jyoti",
+            "company": "Capgeminy",
+            "phno": "8318578821",
+            "email": "",
+            "3rd_party": "yes",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "Shradha",
+            "company": "LtiMindtree",
+            "phno": "8299192811",
+            "email": "",
+            "3rd_party": "no",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "Deb Malya",
+            "company": "Capgeminy",
+            "phno": "7908577803",
+            "email": "",
+            "3rd_party": "no",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "Vanmathi",
+            "company": "Randstand",
+            "phno": "7448660774",
+            "email": "",
+            "3rd_party": "no",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "Sonia",
+            "company": "TCS",
+            "phno": "8319228116",
+            "email": "",
+            "3rd_party": "yes",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "Srkanth",
+            "company": "TCS",
+            "phno": "9550371793",
+            "email": "",
+            "3rd_party": "yes",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "Shambavi Sukla",
+            "company": "Futurzhr",
+            "phno": "8976703668",
+            "email": "shambhavi.s@futurzhr.com",
+            "3rd_party": "yes",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "JRK HR",
+            "company": "JRK Infotech",
+            "phno": "9321918123",
+            "email": "",
+            "3rd_party": "yes",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "Sunita",
+            "company": "Hexawere",
+            "phno": "7975943188",
+            "email": "",
+            "3rd_party": "no",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "Shalini",
+            "company": "Gelaxy",
+            "phno": "9160364422",
+            "email": "",
+            "3rd_party": "no",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "Akhila",
+            "company": "TCS",
+            "phno": "7795043548",
+            "email": "",
+            "3rd_party": "yes",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "Arpitha",
+            "company": "Horizontal",
+            "phno": "7795128699",
+            "email": "",
+            "3rd_party": "yes",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "Aditya",
+            "company": "Orcopad",
+            "phno": "7207544121",
+            "email": "",
+            "3rd_party": "yes",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "C2H Infosys",
+            "company": "Infosys",
+            "phno": "8317499238",
+            "email": "",
+            "3rd_party": "yes",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "Himanshu",
+            "company": "DXC",
+            "phno": "7906925241",
+            "email": "",
+            "3rd_party": "no",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "Infosys Pune",
+            "company": "Infosys",
+            "phno": "8088756997",
+            "email": "",
+            "3rd_party": "no",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "Sara",
+            "company": "Hexaware",
+            "phno": "8057495360",
+            "email": "",
+            "3rd_party": "no",
+            "date": "2024-07-26"
+        },
+        {
+            "hr_name": "Suraj",
+            "company": "Coferge",
+            "phno": "9637117109",
+            "email": "",
+            "3rd_party": "no",
+            "date": "2024-07-26"
+        }
+    ]
+}

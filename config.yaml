@@ -1,0 +1,24 @@
+credentials:
+  usernames:
+    namo:
+      name: Narendra Modi
+      password: Narendra_Modi_Pass # Will be hashed automatically
+    putin:
+      name: Putin
+      password: Russia_PM_Pass # Will be hashed automatically
+    kamala:
+      name: Kamala Haris
+      password: Mrs_Haris_Of_USA # Will be hashed automatically
+    meloni:
+      name: Giorgia Meloni
+      password: India's_Loveble_Women # Will be hashed automatically
+    alberto:
+      name: Alberto Fernández
+      password: Mr_Argentina_Pass # Will be hashed automatically
+cookie:
+  expiry_days: 1
+  key: abcdef # Must be string
+  name: hr_detl
+pre-authorized:
+  emails:
+  - melsby@gmail.com
