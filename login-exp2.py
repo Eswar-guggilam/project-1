@@ -67,7 +67,7 @@ if st.session_state["authentication_status"]:
         		else:
         			write_json(y)
         			x = len(file_data['hrdetail'])
-				st.write('Currently we have' x 'Number of HR data in our database')
+				st.write('Currently we have', x, 'Number of HR data in our database')
         			get_data = random.sample(range(x), 5)
         			for i in get_data:
         				st.write(file_data['hrdetail'][i])
