@@ -67,7 +67,7 @@ if st.session_state["authentication_status"]:
         		else:
         			write_json(y)
         			x = len(file_data['hrdetail'])
-				st.write('Currently we have', x, 'Number of HR data in our database')
+        			st.write('Currently we have', x, 'Number of HR data in our database')
         			get_data = random.sample(range(x), 5)
         			for i in get_data:
         				st.write(file_data['hrdetail'][i])
@@ -75,8 +75,3 @@ elif st.session_state["authentication_status"] is False:
     st.error('Username/password is incorrect')
 elif st.session_state["authentication_status"] is None:
     st.warning('Please enter your username and password')
-
-
-
-
-#my_dict["hrdetail"][0].update({"remarks": "Your remarks here"})
